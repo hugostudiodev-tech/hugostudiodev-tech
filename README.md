@@ -14,7 +14,7 @@ Design with purpose. Code with passion. From concepts to scalable digital ecosys
 <br/>
 
 <!-- 3D PORTAL BUTTON -->
-<a href="https://hugostudiodev-tech.github.io/hugostudio-landing/" target="_blank">
+<a href="https://www.hugowishpax.studio" target="_blank">
   <img src="https://img.shields.io/badge/✨_LAUNCH_3D_INTERACTIVE_EXPERIENCE-3B82F6?style=for-the-badge&logo=three.js&logoColor=white" height="45" alt="Launch 3D Web" />
 </a>
 
