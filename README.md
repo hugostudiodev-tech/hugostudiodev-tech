@@ -2,7 +2,7 @@
 
 <!-- AVATAR MASCOT & LOGO HEADER -->
 <a href="https://hugostudiodev-tech.github.io/hugostudio-landing/" target="_blank">
-  <img src="https://raw.githubusercontent.com/hugostudiodev-tech/hugostudio-landing/main/mascot.png" width="160" alt="Hugo Studio Mascot" />
+  <img src="./mascot.png" width="160" alt="Hugo Studio Mascot" />
 </a>
 
 # Hugo Studio
@@ -43,7 +43,7 @@ Design with purpose. Code with passion. From concepts to scalable digital ecosys
   <tr>
     <td width="50%" valign="top">
       <a href="https://education.hugowishpax.studio" target="_blank">
-        <img src="https://raw.githubusercontent.com/hugostudiodev-tech/hugostudio-landing/main/edu-preview.png" width="100%" style="border-radius: 12px;" alt="Hugo Edu+ Banner" />
+        <img src="./edu-preview.png" width="100%" alt="Hugo Edu+ Banner" />
       </a>
       <br/><br/>
       <b>🎓 Hugo Edu+</b>
@@ -52,7 +52,7 @@ Design with purpose. Code with passion. From concepts to scalable digital ecosys
     </td>
     <td width="50%" valign="top">
       <a href="https://qr.hugowishpax.studio" target="_blank">
-        <img src="https://raw.githubusercontent.com/hugostudiodev-tech/hugostudio-landing/main/qr-preview.png" width="100%" style="border-radius: 12px;" alt="Hugo QR Banner" />
+        <img src="./qr-preview.png" width="100%" alt="Hugo QR Banner" />
       </a>
       <br/><br/>
       <b>📱 Hugo QR</b>
